@@ -1,0 +1,10 @@
+
+section {
+    margin-left: 20;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#article1{
+    margin-left: 20%;
+}
